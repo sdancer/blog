@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://example.com/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/blog/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/blog/lab-001/</loc>
+        <lastmod>2025-06-05</lastmod>
+    </url>
+    <url>
+        <loc>https://example.com/blog/lab-002/</loc>
+        <lastmod>2025-06-05</lastmod>
+    </url>
+    <url>
+        <loc>https://example.com/blog/lab-003/</loc>
+        <lastmod>2025-06-11</lastmod>
+    </url>
+    <url>
+        <loc>https://example.com/categories/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/categories/ai-stuff/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/tags/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/tags/consciousness/</loc>
+    </url>
+    <url>
+        <loc>https://example.com/tags/self-improving/</loc>
+    </url>
+</urlset>
